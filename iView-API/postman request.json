@@ -1,0 +1,7 @@
+POST https://your-app-engine-endpoint/login
+Content-Type: application/json
+
+{
+  "username": "user123",
+  "password": "password123"
+}
